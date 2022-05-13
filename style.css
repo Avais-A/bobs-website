@@ -1,0 +1,26 @@
+html {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    color:black;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.banner{
+    width: 100%;
+    height: 380px;
+}
+
+.remove_margin{
+    margin-bottom: 0px !important;
+    
+}
+
+.ig_icon{
+    color: chocolate;
+    font-size: 50px;
+}
